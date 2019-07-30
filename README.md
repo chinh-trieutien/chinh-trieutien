@@ -1,4 +1,6 @@
-[![Logo](./Blogo.svg)](https://chinh-trieutien.github.io/BARC/)
+[![Logo](./CTT.svg)](https://chinh-trieutien.github.io/chinh-trieutien "chinh, trieu tien")
+
+<img url="google.com.vn" src="https://github.com/chinh-trieutien/chinh-trieutien/blob/gh-pages/CTT.svg" alt="chinh, trieu tien" width="100" height="100">
 
 Issues Collectors for BARC | 2017, 2018
 
